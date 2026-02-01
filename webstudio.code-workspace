@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.experimental.useTsgo": true,
+		"files.associations": {
+			"*.sql": "sql"
+		}
+	}
+}
